@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>833982262483-k42efr57ieva7hiqclvvnghi3qq9c64m.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.833982262483-k42efr57ieva7hiqclvvnghi3qq9c64m</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB59KJcd0-6jdc0dhvbycXb9indOxodm-I</string>
+	<key>GCM_SENDER_ID</key>
+	<string>833982262483</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.angelmartinez.trips</string>
+	<key>PROJECT_ID</key>
+	<string>tripsflutter-ea765</string>
+	<key>STORAGE_BUCKET</key>
+	<string>tripsflutter-ea765.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:833982262483:ios:36fc3109c2b26f894d7826</string>
+</dict>
+</plist>

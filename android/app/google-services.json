@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "833982262483",
+    "project_id": "tripsflutter-ea765",
+    "storage_bucket": "tripsflutter-ea765.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833982262483:android:1ff660d9b147588d4d7826",
+        "android_client_info": {
+          "package_name": "com.anncode.platzitripsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "833982262483-b1b7irdjnsb2l7gpdde4p62u78ls21ar.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBh1eVtY2acPUNVWzrRwOJGyyWWLx3Q1dM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "833982262483-b1b7irdjnsb2l7gpdde4p62u78ls21ar.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
